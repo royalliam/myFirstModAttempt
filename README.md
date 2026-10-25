@@ -1,2 +1,3 @@
-# myFirstModAttempt
-Me messing around and trying to create a monster train 2 mod.
+# Titanic Equipment
+
+A mod that adds three pieces of equipment, one for each of the titans at the end of a normal run.
